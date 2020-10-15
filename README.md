@@ -30,3 +30,6 @@ Após terminar o candidato deverá versionar a prova no git hub e nos mandar o r
 
 
 https://drive.google.com/file/d/1B9bLaWVKbiy_Y0BlfNSX7j7Romq48sxI/view
+
+
+Validacoes -> É a classe que tem as definições "Cada uma classe Cliente, uma classe Gerente e uma classe Robo, todas devem ter um nome no qual deve atender aos seguintes requisitos:"
