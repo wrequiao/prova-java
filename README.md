@@ -1,7 +1,9 @@
 **Teste de Java Básico com Spring-Boot**
 
 
-Prova de avaliação dos conhecimentos básicos de linguagem Java com Spring + Git.
+Prova de avaliação dos conhecimentos básicos de linguagem Java.
+
+Para fazer a prova é necessário ter o java 11 e o maven 3.
 
 O candidato deve ser implementar 2 desafios:
 
@@ -22,6 +24,9 @@ O candidato deve ser implementar 2 desafios:
  
 
     
-Após o termino da prova o candidato deverá, criar uma nova branch seguindo o padrão ` nome-sobrenome-dd-mm-yy` e criar um Pull Request (PR).
+Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
+* Enviar para: lhsilva@confidencecambio.com.br, msales@confidencecambio.com.br, hfigueiredo@confidencecambio.com.br
 
-A prova tem tempo de X min.
+
+
+https://drive.google.com/file/d/1B9bLaWVKbiy_Y0BlfNSX7j7Romq48sxI/view
